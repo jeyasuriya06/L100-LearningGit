@@ -1,2 +1,2 @@
 print("This is the configuration file")
-print("Version 2")
+print("Version 3")
