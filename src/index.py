@@ -1,4 +1,4 @@
 print("index.py")
-print("version 5")
+print("version 6")
 
 print("NEW FEATURE")
